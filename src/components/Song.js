@@ -11,6 +11,7 @@ const Song = ({ currentSong, currentRotate }) => {
       ></img>
       <h1>{songName}</h1>
       <h3>{artist}</h3>
+      <h4>Siemanko</h4>
     </div>
   );
 };
